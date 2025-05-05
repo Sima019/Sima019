@@ -8,4 +8,3 @@ Web Developer
   <img src="https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" width="80">
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB Logo" width="80">
 </div>
-![JavaScript-logo](https://github.com/user-attachments/assets/43048cba-6889-4e41-a1d3-f34d67b3bfdf)
