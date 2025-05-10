@@ -12,4 +12,4 @@ Frontend: HTML | CSS | Bootstrap  | Javascript | React |
 Backend: Python | FastAPI | PostgreSQL | MongoDB | MySQL |
 
 Others: Git | Github | Linux |
-![ChatGPT Image May 11, 2025, 02_57_43 AM](https://github.com/user-attachments/assets/29a0c348-6713-4b85-9704-dd271f4940cc)
+![ChatGPT Image May 11, 2025, 02_57_43 AM](https://github.com/user-attachments/assets/f4f10d1a-66d3-4314-b918-0cba008b8641)
