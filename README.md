@@ -14,3 +14,4 @@ Backend: Python | FastAPI | PostgreSQL | MongoDB | MySQL |
 Others: Git | Github | Linux |
 
 ![tech_logos_small](https://github.com/user-attachments/assets/2cea9ed7-4344-43bc-aa59-609c94cafac7)
+https://youtube.com/shorts/aIy46jQsDLM?si=-Kr39erVbDO7gaHl
